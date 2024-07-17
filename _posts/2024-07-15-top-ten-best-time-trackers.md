@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top Ten Best Screentime Trackers" 
+title: "Best Screentime Trackers for freelancers, ADHD individuals & people working remotely" 
 date: 2024-7-15 16:35 +0300
 author: "Brian Vuku"
 author_twitter: "subrupt"
@@ -13,6 +13,12 @@ There are many reasons you might want to track your screentime. Maybe you want t
 ## 1. ActivityWatch
 
 ActivityWatch is a free, open-source cross-platform screentime tracker that helps you track your screentime and improve your productivity. It tracks the time you spend on different applications and websites, and provides detailed reports to help you analyze your screentime habits. ActivityWatch is highly customizable and extensible with many plugins available for download. ActivityWatch is available for Windows, macOS, Android and Linux. All data is stored locally by default, ensuring your privacy.
+
+####Pros - 
+        --Self Hosted
+        --Privacy Focus
+###Cons -
+        -- Little difficult to understand at the start.
 
 ## 2. RescueTime
 
